@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>E:\EnvMon\SOA_bin\APP\SOA\USER\services\data_service\data_service.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\EnvMon\SOA_bin\APP\SOA\USER\shell\shell_call.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\SOA_bin\APP\SOA\USER\services\data_service\data_service.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\SOA_bin\APP\SOA\USER\shell\shell_call.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
